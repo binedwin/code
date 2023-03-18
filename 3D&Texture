@@ -13,6 +13,6 @@ function draw(){
   rotateX(mouseX/100);
   rotateY(mouseY/100);
   texture(img); 
-  sphere(150);  //3d박스
+  sphere(150); 
 
 }
